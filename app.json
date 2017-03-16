@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/cal/cal",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Calculater",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#eeeeee"
+  }
+ 
+}
